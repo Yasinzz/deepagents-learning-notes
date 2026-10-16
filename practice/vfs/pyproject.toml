@@ -1,0 +1,6 @@
+[project]
+name = "deepagents-vfs-practice"
+version = "0.1.0"
+description = "Hands-on experiments with DeepAgents filesystem backends."
+requires-python = ">=3.12,<3.14"
+dependencies = ["deepagents==0.7.8"]
