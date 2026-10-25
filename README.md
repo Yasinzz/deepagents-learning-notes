@@ -11,6 +11,7 @@
 | Task2 | 虚拟文件系统、存储后端对比、项目文件读写链路 | 核心实验已验证；原练习脚本仍有收尾项 |
 | Task3 | Todo 机制、显式中间件、固定资料报告与独立验收 | Lite / Basic 核心实验已验证；执行偏差与日志记录改进已注明 |
 | Task4 | 子 Agent、task 委派、主子消息边界与回传优化 | Lite / Basic / Advanced 核心实验已验证；收益、额外开销与单次对照限制已记录 |
+| Task5 | Skill 匹配、正文读取与课程摘要流程 | Lite / Basic 核心链路已验证；执行偏差已记录，修订版未重跑；Advanced 跳过 |
 
 这里的 Task2 是本次学习计划的编号，对应原项目第 3 章中的后端学习内容。
 
@@ -19,6 +20,8 @@
 - [Task2：虚拟文件系统与存储边界](notes/task2-virtual-filesystem.md)
 - [Task3：Todo 机制与中间件](notes/task3-todo.md)
 - [Task4：子 Agent、消息边界与回传优化](notes/task4-subagents.md)
+- [Task5：Skill 匹配、读取与实际执行](notes/task5-skills.md)
+- [course-brief Skill 示例（修订版，未重跑）](examples/course-brief/SKILL.md)
 - [排错记录与待整理项](notes/troubleshooting.md)
 - [安全红线](SECURITY.md)
 - [新笔记模板](templates/note-template.md)
