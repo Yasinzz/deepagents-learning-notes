@@ -12,6 +12,7 @@
 | Task3 | Todo 机制、显式中间件、固定资料报告与独立验收 | Lite / Basic 核心实验已验证；执行偏差与日志记录改进已注明 |
 | Task4 | 子 Agent、task 委派、主子消息边界与回传优化 | Lite / Basic / Advanced 核心实验已验证；收益、额外开销与单次对照限制已记录 |
 | Task5 | Skill 匹配、正文读取与课程摘要流程 | Lite / Basic 核心链路已验证；执行偏差已记录，修订版未重跑；Advanced 跳过 |
+| Task6 | 跨会话文件记忆、发布审批、用户隔离与风险分层 | Lite / Basic 核心实验已验证；拒绝分支已补自动计数；Advanced 实测跳过，隔离与 edit 仅原理，风险分层仅方案 |
 
 这里的 Task2 是本次学习计划的编号，对应原项目第 3 章中的后端学习内容。
 
@@ -21,6 +22,7 @@
 - [Task3：Todo 机制与中间件](notes/task3-todo.md)
 - [Task4：子 Agent、消息边界与回传优化](notes/task4-subagents.md)
 - [Task5：Skill 匹配、读取与实际执行](notes/task5-skills.md)
+- [Task6：跨会话记忆、工具审批与安全边界](notes/task6-memory-and-approval.md)
 - [course-brief Skill 示例（修订版，未重跑）](examples/course-brief/SKILL.md)
 - [排错记录与待整理项](notes/troubleshooting.md)
 - [安全红线](SECURITY.md)
